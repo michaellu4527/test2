@@ -1,0 +1,10 @@
+Hello!!!
+
+
+I have no clue what I am doing! :D
+
+for (i=0, i<9, i++){
+	x = y+2;
+}
+
+return x;
