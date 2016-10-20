@@ -12,3 +12,7 @@ return x;
 fa;skdfas;dkfsdf
 
 Testing audio on desktop client
+
+for (i=0, i<14, i++){
+	x[i] = i+2;
+}
